@@ -14,7 +14,7 @@ binding = "R2"
 bucket_name = "twikoo"
 
 [vars]
-R2_PUBLIC_URL = "https://cf-twikoo.ddb.ac.cn"
+R2_PUBLIC_URL = "https://twikoo-r2.ddb.ac.cn"
 
 [dev]
 port = 5000
